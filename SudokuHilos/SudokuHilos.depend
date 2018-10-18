@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536172726 source:/home/danilo/Desktop/Proyecto-1/SudokuHilos/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+

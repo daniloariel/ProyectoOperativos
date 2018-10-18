@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1536788092 source:/home/danilo/Escritorio/Operativos/SO/Proyecto-1/SHELL/main.c
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<dirent.h>
+

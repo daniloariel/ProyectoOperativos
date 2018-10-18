@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1536007752 source:/home/danilo/Desktop/Proyecto-1/Impresoras/main.c
+	<stdlib.h>
+	<stdio.h>
+	<unistd.h>
+	<pthread.h>
+	<semaphore.h>
+
+1536787001 source:/home/danilo/Escritorio/Operativos/SO/Proyecto-1/Impresoras/main.c
+	<stdlib.h>
+	<stdio.h>
+	<unistd.h>
+	<pthread.h>
+	<semaphore.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1536171802 source:/home/danilo/Desktop/Proyecto-1/Sudoku/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<unistd.h>
+

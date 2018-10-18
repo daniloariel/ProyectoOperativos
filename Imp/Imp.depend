@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1535566977 source:/home/danilo/Desktop/Proyecto-1/Imp/main.c
+	<stdlib.h>
+	<stdio.h>
+	<unistd.h>
+	<pthread.h>
+	<semaphore.h>
+
