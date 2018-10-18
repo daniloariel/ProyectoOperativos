@@ -4,7 +4,7 @@
 #include <pthread.h>
 #include <semaphore.h>
 
-
+puto el que lee
 /*
 	Proyecto Nro 1, Sistemas Operativos
 	Comisión: Escudero Johanna, LU: 105868
